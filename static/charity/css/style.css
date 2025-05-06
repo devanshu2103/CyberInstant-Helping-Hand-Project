@@ -336,7 +336,7 @@ nav a, nav a * {
 /* Footer Styles */
 footer {
     background: #f8f8f8; /* light gray background for footer */
-    color: #333; /* dark text for visibility */
+    color: #240707; /* dark text for visibility */
     padding: 60px 0 20px;
 }
 
@@ -393,6 +393,7 @@ footer {
     border-radius: 50%;
     color: var(--white);
     transition: all 0.3s;
+    
 }
 
 .social-links a:hover {
